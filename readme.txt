@@ -54,7 +54,7 @@ Goto Dashboard or click the clink dashboard of plugin links
 
 == Changelog ==
 = 1.0.1 =
-* Check all Latest Version & Supports.
+* Check all Latest Version.
 
 = 1.0 =
 * Just New Release.
