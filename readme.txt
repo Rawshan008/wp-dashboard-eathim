@@ -2,8 +2,8 @@
 Contributors: rawshan008
 Tags: dashboard, widget, widgets, user notes, use list, list, notes
 Requires at least: 4.6
-Tested up to: 5.3.1
-Stable tag: 4.3
+Tested up to: 5.9.3
+Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -53,10 +53,13 @@ Goto Dashboard or click the clink dashboard of plugin links
 4.  Lists Widgets
 
 == Changelog ==
+= 1.0.1 =
+* Check all Latest Version.
 
 = 1.0 =
 * Just New Release.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.1 =
+* Check all Latest Version.
