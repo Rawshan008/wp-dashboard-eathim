@@ -5,7 +5,7 @@
  * Description:       Provides a excellent widgets for your WP Dashboard.
  * Tags: dashboard, widget, widgets, user notes, use list, list, notes
  * Version:           1.0.2
- * Requires at least: 5.2
+ * Requires at least: 6.0
  * Requires PHP:      7.2
  * Author:            Rawshan ali
  * Author URI:        #
