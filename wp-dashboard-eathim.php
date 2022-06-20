@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name:       WP Dashboard Eathim
- * Plugin URI:        https://wordpress.org/plugins/search/wp-dashboard-eathim/
+ * Plugin URI:        https://wordpress.org/plugins/wp-dashboard-eathim/
  * Description:       Provides a excellent widgets for your WP Dashboard.
  * Tags: dashboard, widget, widgets, user notes, use list, list, notes
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Rawshan ali
- * Author URI:        https://rawshanars.com
+ * Author URI:        #
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       wpdeathim
